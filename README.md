@@ -2,9 +2,6 @@
 
 This repository is part of my journey to build 100 Python projects — from absolute beginner to advanced level. The goal is to improve my problem-solving, code structuring, and real-world development skills. Each project is stored in a separate repository with code and documentation.
 
-## ✅ Completed Projects
-- [x] **001. Hello World** — first simple print statement
-
 ---
 
 ## 📋 Project List
