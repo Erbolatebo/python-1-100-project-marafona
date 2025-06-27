@@ -8,7 +8,7 @@ This repository is part of my journey to build 100 Python projects — from abso
 
 ### 🔰 Level 0 — Beginner (0–10)
 - [x] 001. Hello World
-- [ ] 002. Calculator
+- [x] 002. Calculator
 - [ ] 003. Word Counter
 - [ ] 004. Reverse Text
 - [ ] 005. Password Generator

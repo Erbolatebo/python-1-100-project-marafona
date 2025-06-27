@@ -17,3 +17,4 @@ elif func=='%':
     print(num1, '%', num2, '=', num1%num2)    
 else:
     print('Ошибка!')   
+
