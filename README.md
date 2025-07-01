@@ -9,10 +9,10 @@ This repository is part of my journey to build 100 Python projects — from abso
 ### 🔰 Level 0 — Beginner (0–10)
 - [x] 001. Hello World
 - [x] 002. Calculator
-- [ ] 003. Word Counter
-- [ ] 004. Reverse Text
-- [ ] 005. Password Generator
-- [ ] 006. Palindrome Checker
+- [x] 003. Word Counter
+- [x] 004. Reverse Text
+- [x] 005. Password Generator
+- [x] 006. Palindrome Checker
 - [ ] 007. Even/Odd Checker
 - [ ] 008. Factorial Calculator
 - [ ] 009. BMI Calculator
@@ -129,5 +129,5 @@ This repository is part of my journey to build 100 Python projects — from abso
 ---
 
 ## 🔄 Progress
-**Completed: 1 / 100**  
+**Completed: 6 / 100**  
 Let’s keep going! 💪
